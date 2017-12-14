@@ -1,0 +1,18 @@
+<user> 
+  <Peson name="王五"> 
+    <userName>wangwu888</userName>  
+    <userPasswd>wu123456789</userPasswd>  
+    <userProfession>Cooking</userProfession> 
+  </Peson>  
+  <Peson name="张三"> 
+    <userName>zzzz</userName>  
+    <userPasswd>aaaa</userPasswd>  
+    <userProfession>Pig</userProfession> 
+  </Peson>  
+  <Peson name="李四"> 
+    <userName>sddsad</userName>  
+    <userPasswd>yy122</userPasswd>  
+    <userProfession>PPPP</userProfession> 
+  </Peson>  
+  
+</user>
